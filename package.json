@@ -1,0 +1,22 @@
+{
+  "name": "git-hook-autopull",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Esperk/git-hook-autopull.git"
+  },
+  "author": "Esper Kuijs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Esperk/git-hook-autopull/issues"
+  },
+  "homepage": "https://github.com/Esperk/git-hook-autopull#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
